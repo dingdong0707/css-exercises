@@ -34,9 +34,10 @@ ul {
     justify-content: space-between;
     /* gap: 50px;
     padding: 100px 0; */
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     align-items: center;
     min-height: 500px;
+    padding-bottom: 30px;
  
 }
 .c11 {
